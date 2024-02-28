@@ -1,2 +1,5 @@
 Resolusi materi yang akan dipelajari dart learning:
 - Konsisten belajar 
+- Hello world
+- if 
+- null
