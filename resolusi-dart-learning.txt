@@ -2,4 +2,11 @@ Resolusi materi yang akan dipelajari dart learning:
 - Konsisten belajar 
 - Hello world
 - if 
-- null
+- do while
+- for in
+- for loop
+- list
+- function
+- function parameter
+- function recrusive
+- function return value 
